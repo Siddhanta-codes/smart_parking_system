@@ -4,6 +4,7 @@ In this project, I have designed a smart parking system, using Arduino IDE and P
 I have also used Node-Red and IBM Watson assistant for making the app and the chatbot to assist the users to book a parking slot for a particular time
 
 Working Video:
+
 https://drive.google.com/file/d/1T7QQbdTUvyXoI7qmRcRIoFEp4Elle35Q/view
 
 
